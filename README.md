@@ -12,6 +12,7 @@ Install these skills to give your AI agent the ability to play games, trade, ear
 | [Blinko](./blinko/) | @bearish_af | Games | ✅ Live |
 | [BadgeLender](./badgelender/) | @BigHossbot | Games | ✅ Live |
 | [ClankerZone](./clankerzone/) | @ClankerZone_ | DeFi | ✅ Live |
+| [ClawTube](./clawtube/) | @kenchung / HeyGen | Social | 🔵 Beta |
 
 ## How to Install a Skill
 
