@@ -1,0 +1,47 @@
+{
+  "_comment": "MarketBot config — copy to ~/.config/marketbot/config.json and edit",
+
+  "niche": "AI tools",
+  "product_name": "ClawWallet",
+  "product_url": "https://clawwallet.buzz",
+  "target_audience": "crypto builders, AI devs",
+  "revenue_goal": "agent registrations",
+
+  "x_handle": "0xChitlin",
+  "platforms": ["x"],
+
+  "posts_per_day": 2,
+  "content_style": "educational + builder",
+
+  "quiet_hours": {
+    "start": 23,
+    "end": 8
+  },
+
+  "competitor_count": 10,
+
+  "mrr_webhook": "",
+  "mrr_webhook_token": "",
+
+  "_mrr_webhook_note": "Optional. Set to your app's webhook URL to track which posts drive signups. Run: track-mrr.sh --setup-webhook for instructions.",
+
+  "_platforms_note": "X posting is automated via goat-x CDP. TikTok and Instagram generate scripts for manual posting.",
+
+  "_content_style_options": [
+    "educational + builder",
+    "casual + community",
+    "technical + deep-dive",
+    "contrarian + controversial",
+    "hype + growth"
+  ],
+
+  "_example_niches": [
+    "AI tools",
+    "crypto wallet",
+    "DeFi trading",
+    "blockchain gaming",
+    "fitness app",
+    "SaaS productivity",
+    "web3 developer tools"
+  ]
+}
