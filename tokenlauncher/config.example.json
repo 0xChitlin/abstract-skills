@@ -1,0 +1,8 @@
+{
+  "tokenName":     "Claw Token",
+  "tokenSymbol":   "CLAW",
+  "totalSupply":   1000000000,
+  "liquidityETH":  0.05,
+  "twitterHandle": "@ClawWalletHQ",
+  "autoPromote":   true
+}
